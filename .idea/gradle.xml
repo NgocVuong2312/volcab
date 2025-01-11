@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/calculator" />
+            <option value="$PROJECT_DIR$/app/clock" />
+            <option value="$PROJECT_DIR$/app/expensify" />
+            <option value="$PROJECT_DIR$/app/myapplication" />
+            <option value="$PROJECT_DIR$/app/navigationbar" />
+            <option value="$PROJECT_DIR$/app/navigationbar2" />
+            <option value="$PROJECT_DIR$/app/navigationbar22" />
+            <option value="$PROJECT_DIR$/app/note" />
+            <option value="$PROJECT_DIR$/app/quiz" />
+            <option value="$PROJECT_DIR$/app/timemanager" />
+            <option value="$PROJECT_DIR$/app/timemanager2" />
+            <option value="$PROJECT_DIR$/app/unitconverter" />
+            <option value="$PROJECT_DIR$/app/volcab" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
